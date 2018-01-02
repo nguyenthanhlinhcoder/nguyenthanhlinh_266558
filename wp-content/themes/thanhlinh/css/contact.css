@@ -1,0 +1,136 @@
+/*			Contact				*/
+#contact-wrapper{
+    float: left;
+    width: 100%;
+}
+.star{
+    color: #ff551f;
+}
+.title_contact_form{
+    font-family: "open sans bold";
+}
+#wpcf7-f388-o1 .wpcf7-form-control-wrap{
+    border: 1px solid #ddd;
+}
+.submit_form_lh{
+    float: left!important;
+    background-color: #ff551f !important;
+    text-transform: uppercase;
+    text-transform: uppercase;
+    font-family: "Open sans bold";
+    margin-top: 25px !important;
+    padding: 10px 25px !important;
+    outline: none;
+}
+#contact-map{
+    width: 75%;
+    margin: 0 auto;
+}
+#wrap-content>.content-box>.span12 #contact-map{
+width: 100% !important;
+float: left;
+}
+
+#contact-wrapper{margin-top:30px}
+.contact-form,.contact-address{
+float:left;
+width:50%;
+}
+.contact-address{
+padding:0 5%;
+box-sizing:border-box;
+}
+#contact-wrapper .title-box-lh{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "open sans semibold";
+}
+#contact-wrapper .contact-form .title-box-lh{
+    text-transform: uppercase;
+}
+.contact-address ul.info-lh{
+/*margin-top:20px;*/
+float:left;
+}
+
+.contact-address ul.info-lh li {
+margin-bottom: 20px;
+/*text-transform:uppercase;*/
+}
+.contact-address ul.info-lh li:nth-child(1),.contact-address ul.info-lh li:nth-child(3){
+    margin: 0;
+}
+.phone_contact,.email_contact{
+    color: #ff551f;
+    font-family: "open sans regular"!important;
+}
+.contact-address ul.info-lh li h2{
+    text-transform: uppercase;
+    font-family: "open sans bold";
+    font-size: 14px;
+    margin: 0;
+}
+.contact-address ul.info-lh li span{
+    font-size: 14px;
+    font-family: "open sans bold";
+}
+#content .wpcf7-form p {
+clear: both;
+float: left;
+width: 100%;
+line-height:25px;
+}
+.wpcf7-form label {
+float: left;
+width: 100%;
+}
+.wpcf7-form *{
+box-sizing:border-box;
+}
+.wpcf7-form input.wpcf7-text {
+border: 1px solid #ccc;
+border-radius: 0;
+line-height: 16px;
+width: 100%;
+padding: 8px;
+}
+#content .wpcf7-form .wpcf7-form-control-wrap {
+float: left;
+margin: 0;
+width: 100%;
+}
+.wpcf7-form textarea.wpcf7-textarea {
+width: 100%;
+height:120px;
+border: 1px solid #ccc;
+}
+.wpcf7-form .wpcf7-submit {
+background: #1dc1f8 none repeat scroll 0 0;
+border: medium none;
+float: right;
+padding: 10px;
+}
+.wpcf7-form .wpcf7-submit:hover{
+cursor: pointer;
+background: #2c88c0;
+transition: 0.3s;
+}
+#contact-map iframe{
+    height:500px;
+    width: 100%;
+}
+
+div.wpcf7-response-output{border:none;}
+@media only screen and (max-width: 767px) {
+.contact-form,.contact-address{width:100%;padding:0;}
+#contact-wrapper .title-box-lh{font-size:24px;}
+#contact-map iframe{height:300px}
+#contact-map{
+    width: 100%;
+    float: left;
+}
+}
+input:focus {
+border:none;
+}

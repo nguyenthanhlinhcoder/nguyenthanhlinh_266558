@@ -1,0 +1,198 @@
+2017-11-19T17:47:34+00:00 CRITICAL Call to undefined function twentytwelve_content_nav()
+
+2017-11-19T17:48:34+00:00 CRITICAL Call to undefined function twentytwelve_content_nav()
+
+2017-11-19T17:49:36+00:00 CRITICAL Call to undefined function twentytwelve_content_nav()
+
+2017-11-19T17:52:33+00:00 CRITICAL Call to undefined function twentytwelve_content_nav()
+
+2017-11-19T17:53:47+00:00 CRITICAL Call to undefined function twentytwelve_content_nav()
+
+2017-11-19T17:54:11+00:00 CRITICAL Call to undefined function twentytwelve_content_nav()
+
+2017-11-20T16:46:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-11-29T17:52:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-06T13:36:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-06T13:36:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T10:21:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T10:21:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T15:16:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-09T08:56:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-11T06:58:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-14T16:08:26+00:00 CRITICAL Call to undefined function removeDir()
+
+2017-12-14T16:34:53+00:00 CRITICAL Call to undefined function removeDir()
+
+2017-12-14T17:34:06+00:00 CRITICAL Call to undefined function removeDir()
+
+2017-12-14T17:35:11+00:00 CRITICAL Call to undefined function removeDir()
+
+2017-12-14T17:54:03+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T18:07:18+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T18:07:27+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T18:07:40+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T18:07:44+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T18:13:47+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T18:23:13+00:00 CRITICAL Call to undefined function get_options()
+
+2017-12-14T18:42:06+00:00 CRITICAL Call to undefined method WC_Product_Simple::wc_get_related_products()
+
+2017-12-14T18:51:14+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T19:27:25+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T19:36:08+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T19:40:13+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T19:40:22+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T19:47:05+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-14T19:50:03+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-15T12:23:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-15T15:38:20+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-15T15:38:43+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-15T15:39:39+00:00 CRITICAL Call to a member function list_attributes() on null
+
+2017-12-15T15:41:43+00:00 CRITICAL Call to a member function list_attributes() on null
+
+2017-12-15T15:42:52+00:00 CRITICAL Call to a member function list_attributes() on null
+
+2017-12-15T16:04:37+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:10:21+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:11:35+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:13:45+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:14:11+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:15:56+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:16:12+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:17:51+00:00 CRITICAL Using $this when not in object context
+
+2017-12-15T16:55:36+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-15T16:55:41+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-15T16:55:56+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-15T18:37:58+00:00 CRITICAL Call to a member function get_title() on boolean
+
+2017-12-15T19:44:26+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_post()
+
+2017-12-15T19:44:52+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_post()
+
+2017-12-19T14:58:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-19T15:02:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-19T16:46:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T11:24:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:32:09+00:00 CRITICAL Call to undefined method WooCommerce::get_attribute_taxonomy_names()
+
+2017-12-20T15:32:38+00:00 CRITICAL Call to undefined method WooCommerce::get_attribute_taxonomy_names()
+
+2017-12-20T15:33:32+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T15:35:08+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T15:35:17+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T15:36:27+00:00 CRITICAL Call to a member function get_variation_attributes() on null
+
+2017-12-20T15:37:56+00:00 CRITICAL Call to a member function get_variation_attributes() on null
+
+2017-12-20T15:43:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:43:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:43:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:43:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:43:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:43:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:44:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:44:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:46:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:46:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:47:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:48:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:53:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:55:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T15:56:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-20T18:54:22+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T18:55:28+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T18:55:44+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T18:57:19+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T18:57:38+00:00 CRITICAL Call to a member function list_attributes() on null
+
+2017-12-20T18:59:15+00:00 CRITICAL Class 'WC_API_Products' not found
+
+2017-12-20T19:01:14+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T19:02:03+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-20T19:04:43+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2017-12-21T13:25:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-21T13:27:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-22T00:08:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-22T00:08:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-22T11:40:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-24T15:57:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T18:21:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-28T11:13:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-02T02:15:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-02T16:11:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+

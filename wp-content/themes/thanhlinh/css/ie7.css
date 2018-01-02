@@ -1,0 +1,12 @@
+.frmsearch form, .frmsearch {
+  width: 180px;
+}
+#menubar #megaMenu.megaResponsiveToggle ul.megaMenu {
+  float: none !important;
+  margin: auto !important;
+  width: 620px !important;
+}
+.mc_signup_submit {
+  float: left;
+  width: 23%;
+}

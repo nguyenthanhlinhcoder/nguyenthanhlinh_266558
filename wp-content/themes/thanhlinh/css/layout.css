@@ -1,0 +1,133 @@
+/**** Global settings ******/
+body {
+  background-color: #FFFFFF;
+  background-repeat: repeat-x;
+  color: #4F4F4F;
+  font-family: "Open Sans Regular";
+  font-size: 14px;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+}
+#full-container {
+    float: left;
+    width: 100%;
+    z-index: 10;
+    position: relative;
+}
+a {
+	text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+.padding-5 {
+  padding: 5px;
+}
+.padding-10 {
+  padding: 10px;
+}
+.inner-container {
+  margin: auto;
+
+  /*padding: 0px 15px;*/
+}
+
+  .inner{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+  }
+
+.inner-content {
+ /* margin-top: 10px;*/
+}
+.content-box-1,.product-box{
+  box-sizing: border-box;
+  padding: 0 15px;
+  margin: auto;
+}
+.product-box{
+  padding-top: 20px;
+}
+.ads-left-body, .ads-right-body {
+  position: absolute;
+  top: 180px;
+  overflow: hidden;
+  width: 155px;
+}
+.ads-left-body img, .ads-right-body img {
+  max-width: 100%;
+}
+.ads-left-body {
+  left: 10px;
+}
+.ads-right-body {
+  right: 10px;
+}
+
+/**** Responsive settings ******/
+@media only screen and (min-width: 1200px){
+  .inner{
+    width: 1170px;
+  }
+  /*#primary{*/
+    /*width: 1170px;*/
+  /*}*/
+}
+@media only screen and (max-width: 1199px)and (min-width: 992px){
+  .inner{
+    width: 970px;
+    box-sizing: border-box;
+  }
+  /*#primary{*/
+    /*width: 970px;*/
+  /*}*/
+
+}
+@media only screen and (max-width: 991px)and (min-width: 768px) {
+  /*#primary{*/
+    /*width: 750px;*/
+  /*}*/
+  .inner{
+    width: 750px;
+    box-sizing: border-box;
+  }
+  .full-menubar .inner{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1280px) {
+.ads-left-body, .ads-right-body {
+  display: none;
+}
+}
+@media only screen and (min-width: 800px) {
+
+}
+@media only screen and (min-width: 800px) and (max-width: 939px) {
+}
+@media only screen and (min-width: 768px) and (max-width: 799px) {
+}
+@media only screen and (max-width: 767px) {
+/*body {*/
+  /*padding: 0 10px;*/
+/*}*/
+  /*#primary{*/
+    /*width: 750px;*/
+  /*}*/
+}
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+}
+@media only screen and (min-width:480px) and (max-width: 599px ) {
+
+}
+@media only screen and (min-width:320px) and (max-width: 479px) {
+
+}
+@media only screen and (max-width:320px){
+
+}

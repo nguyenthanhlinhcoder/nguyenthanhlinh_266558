@@ -1,0 +1,76 @@
+h1, h2, h3, h4, h5, h6 {font-family: "Open Sans Light";font-weight: normal;}
+h1 {margin: 0;}
+a {
+  color: #4F4F4F;
+}
+a:hover {
+  color: #4F4F4F;
+  text-decoration: underline;
+}
+b { font-weight: 700; }
+i { font-style: italic; }
+u { text-decoration: underline;}
+input[type="text"], input[type="password"], input[type="email"], textarea, select {
+  float: left;
+  margin: 0;
+  min-height: 26px;
+  padding: 2px;
+}
+.button, button, input[type="submit"], input[type="reset"], input[type="button"] {background: none repeat scroll 0 0 #7F7F7F;color: #FFFFFF;float: left;font-size: 14px;margin: 0;padding: 5px;text-shadow: none;}
+.button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover {background: none repeat scroll 0 0 #7F7F7F;color: #FFFFFF;}
+input { -webkit-appearance: none;  }
+input[type="checkbox"] {border: 0 none;height: 12px;width: 12px;}
+input[type="radio"] { width: 18px; height: 18px; border: 0px; float:left; clear:left; -webkit-appearance: radio; margin-top: 3px; margin-right: 3px;}
+.left { text-align: left;}
+.center { text-align: center;}
+.right { text-align: right;}
+select { height: 25px; -webkit-appearance:listbox;}
+.spaceafter {  margin-bottom: 5px; }
+ol, ul ,li{list-style: none outside none;margin: 0;padding: 0;}
+.remove-bottom { padding-bottom: 0px  !important; margin-bottom: 0px  !important;}
+.nomargin {margin: 0 !important;}
+.floatLeft{float: left;}
+.floatRight{float: right;}
+@font-face {
+  font-family: 'Open Sans Bold';
+  src: url('../fonts/OpenSans-Bold.ttf');
+  }
+@font-face {
+  font-family: 'Open Sans BoldItalic';
+  src: url('../fonts/OpenSans-BoldItalic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans ExtraBold';
+  src: url('../fonts/OpenSans-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Italic';
+  src: url('../fonts/OpenSans-Italic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Light';
+  src: url('../fonts/OpenSans-Light.ttf');
+}
+@font-face {
+  font-family: 'Open Sans LightItalic';
+  src: url('../fonts/OpenSans-LightItalic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Regular';
+  src: url('../fonts/OpenSans-Regular.ttf');
+}
+@font-face {
+  font-family: 'Open Sans SemiBold';
+  src: url('../fonts/OpenSans-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Open Sans SemiBoldItalic';
+  src: url('../fonts/OpenSans-SemiBoldItalic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans ExtraBoldItalic';
+  src: url('../fonts/OpenSans-ExtraBoldItalic.ttf');
+}
+
+
+

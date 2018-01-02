@@ -1,0 +1,85 @@
+/*-----Cart--------*/
+#content .woocommerce table.shop_table, #content .woocommerce-page table.shop_table {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: none;
+  border-bottom: 1px solid #D3D3D3;
+  border-radius: 0;
+}
+#content .woocommerce .cart-collaterals .cart_totals table, #content .woocommerce-page .cart-collaterals .cart_totals table {
+  width: 100%;
+}
+#content .woocommerce .cart-collaterals .cart_totals table th, #content .woocommerce-page .cart-collaterals .cart_totals table th {
+  width: 50%;
+}
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: none;
+  padding: 2%;
+}
+#content .woocommerce .cart-collaterals .shipping_calculator .button, #content .woocommerce-page .cart-collaterals .shipping_calculator .button {
+  width: auto;
+}
+/*-----Checkout--------*/
+#content .woocommerce #customer_details {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #D3D3D3;
+  padding: 1%;
+  width: 98%;
+}
+label[for="ship-to-different-address-checkbox"] {
+  display: inline;
+  float: none;
+  margin-left: 5px;
+  padding: 0;
+}
+#ship-to-different-address-checkbox {
+  clear: none;
+  float: left;
+}
+.woocommerce #order_review_heading {
+  margin-bottom: 10px;
+}
+.show-quick-view .cart_item .product-thumbnail>a:hover{
+  border: 1px solid #333;
+}
+.show-quick-view .cart_item .product-thumbnail>a{
+  width: 100px;
+  float: left;
+  border: 1px solid #ddd;
+}
+.show-quick-view .cart_item .product-name a{
+  text-decoration: none;
+}
+.show-quick-view .cart_item .product-name .delete{
+  width: 100%;
+  float: left;
+  text-align: left;
+  font-size: 13px;
+  color: #999;
+
+}
+.show-quick-view .cart_item .product-name .delete:hover{
+  background-color: white;
+  color: red;
+}
+.shop_table_responsive tbody .actions,.cart-collaterals .cart_totals h2,.cart-collaterals .cart-subtotal,.cart-collaterals .shipping{
+  display: none;
+}
+.woocommerce-cart .wc-proceed-to-checkout{
+  display: none;
+}
+.content_cart .product-name .delete{
+  display: none;
+}
+#quick-cart .content_cart .product-name .delete{
+  display: block;
+}
+.remove_product_mini{
+  float: left !important;
+  right: 0px;
+  position: absolute !important;
+  bottom: 2px;
+  font-size: 14px;
+}
+
+

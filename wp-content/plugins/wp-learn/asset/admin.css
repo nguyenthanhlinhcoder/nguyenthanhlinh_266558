@@ -1,0 +1,381 @@
+.column-price {
+  width: 10%;
+}
+table.wp-list-table .column-thumb {
+  width: 40px;
+}
+.column-title {
+  width: 23%;
+}
+/* ------------------- Setting page ------------------- */
+.setting-template {
+  background: #fff none repeat scroll 0 0;
+  display: none;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.inner-setting-template {
+  max-height: 500px;
+}
+.setting-template .row-setting-title {
+  border-bottom: 2px solid #333333;
+  box-sizing: border-box;
+  display: block;
+  float: left;
+  font-family: arial;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 2px 5px;
+  text-transform: uppercase;
+  width: 100%;
+}
+.setting-template .row-setting-title.small {
+  border: medium none;
+  font-size: 13px;
+  margin-top: 5px;
+  text-transform: none;
+}
+.setting-template .row-setting {
+  float: left;
+  margin-bottom: 15px;
+  margin-left: 4%;
+  width: 96%;
+}
+.setting-template .row-setting label {
+  color: #333333;
+  float: left;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: normal;
+  text-align: left;
+  width: 100%;
+}
+.setting-template .row-setting input, .setting-template .row-setting textarea {
+  box-sizing: border-box;
+  clear: none;
+  float: left;
+  font-size: 13px;
+  width: 92%;
+}
+.setting-template .submit {
+  background: #ccc none repeat scroll 0 0;
+  bottom: 40px;
+  box-sizing: border-box;
+  padding: 10px;
+  position: absolute;
+  width: 100%;
+}
+.buttonsave, .buttonreset {
+  background: #2194d2 none repeat scroll 0 0;
+  border: medium none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+}
+.buttonreset {
+  background: #fd3913 none repeat scroll 0 0;
+}
+.small-image {
+  background: none repeat scroll 0 0 #CCCCCC;
+  cursor: pointer;
+  float: left;
+  height: 24px;
+  position: relative;
+  text-align: center;
+  width: 60px;
+}
+.small-image:hover .large-image {
+  display: block;
+}
+.small-image > img, .large-image > img {
+  max-height: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+}
+.large-image {
+  background: none repeat scroll 0 0 #CCCCCC;
+  display: none;
+  left: 38px;
+  max-width: 800px;
+  min-width: 200px;
+  position: absolute;
+  top: 20px;
+}
+.large-image .notify-image {
+  color: #A52A2A;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+/* ----V3----- */
+#wpbody-content {
+  padding-bottom: 0 !important;
+}
+.wrap-setting-template {
+  background: #fff none repeat scroll 0 0;
+  border-top: 45px solid #f1f1f1;
+  height: 100%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 18%;
+}
+.wrap-setting-template h3 {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10px;
+}
+.v3-nav-tab-wrapper {
+  background: #fff none repeat scroll 0 0;
+  float: left;
+  margin: 0;
+  width: 100%;
+}
+.v3-nav-tab {
+  background: rgba(0, 0, 0, 0) url("images/v3-icon-chung.png") no-repeat scroll 10px center;
+  border-bottom: 1px solid #ccc;
+  box-sizing: border-box;
+  cursor: pointer;
+  float: left;
+  font-size: 15px;
+  font-weight: normal;
+  padding: 10px 10px 10px 40px;
+  width: 100%;
+}
+.v3-nav-tab.Chỉnh_sửa_Header_Đầu_trang_ {
+  background: rgba(0, 0, 0, 0) url("images/v3-icon-header.png") no-repeat scroll 10px center;
+}
+.v3-nav-tab.Chỉnh_sửa_Footer_Chân_trang_ {
+  background: rgba(0, 0, 0, 0) url("images/v3-icon-footer.png") no-repeat scroll 10px center;
+}
+.v3-nav-tab.Trang_chủ {
+  background: rgba(0, 0, 0, 0) url("images/v3-icon-home.png") no-repeat scroll 10px center;
+}
+.v3-nav-tab.Thiết_lập_chung {
+  background: rgba(0, 0, 0, 0) url("images/v3-icon-chung.png") no-repeat scroll 10px center;
+}
+.v3-nav-tab.Chỉnh_sửa_Sidebar {
+  background: rgba(0, 0, 0, 0) url("images/v3-icon-sidebar.png") no-repeat scroll 10px center;
+}
+.v3-nav-tab:hover {
+  background-color: #dbf2ff;
+}
+.view_ngon_ngu {
+  bottom: 50px;
+  font-size: 14px;
+  left: 10px;
+  position: absolute;
+  width: 100%;
+}
+.nav-tab-head {
+  border-bottom: 1px solid #ccc;
+  float: left;
+  margin: 0 0 5px;
+  width: 100%;
+}
+.nav-tab-head > span {
+  float: left;
+  font-size: 14px;
+  padding: 5px 10px;
+}
+.back-wrap-setting {
+  cursor: pointer;
+  float: left;
+  font-size: 14px;
+  padding: 5px 10px;
+}
+.back-wrap-setting:hover {
+  background: #1faefb none repeat scroll 0 0;
+  color: #fff;
+}
+.item-box-setting {
+  float: left;
+  max-height: 520px;
+}
+.wrap-preview-template {
+  height: 90%;
+  width: 82%;
+}
+.wrap-preview-template iframe {
+  min-height: 630px;
+  width: 98%;
+}
+/* ------------------- Hidden ------------------- */
+.plugin-version-author-uri, .plugin-update-tr, .plugins .delete, #wpfooter {
+  display: none;
+}
+.updated.fade, .update-nag, div.updated, .plugins-php .page-title-action {
+  display: none;
+}
+.column-product_tag, .column-wpseo-title, .column-wpseo-metadesc {
+  display: none;
+}
+/* ------------------- Admin ------------------- */
+.csvr-wrap-theme {
+  padding: 0 20px 0 0;
+}
+.csvr-wrap-theme h1 {
+  float: left;
+  font-size: 18px;
+  margin: 0;
+}
+.csvr-to-editlayout {
+  background: #e0e0e0 none repeat scroll 0 0;
+  color: #0084bc;
+  float: left;
+  margin: 0 0 0 10px;
+  padding: 2px 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.csvr-to-editlayout:hover {
+  background: #0084bc;
+  color: #fff;
+}
+.csvr-wrap-theme h2.nav-tab-wrapper {
+  clear: both;
+  float: left;
+  margin-top: 20px;
+}
+/*************** SCROLLBAR BASE CSS ***************/
+ 
+.scroll-wrapper {
+  float: left;
+  max-height: 520px;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: relative;
+}
+.scroll-wrapper > .scroll-content {
+    border: none !important;
+    box-sizing: content-box !important;
+    height: auto;
+    left: 0;
+    margin: 0;
+    max-height: none;
+    max-width: none !important;
+    overflow: scroll !important;
+    padding: 0;
+    position: relative !important;
+    top: 0;
+    width: auto !important;
+}
+ 
+.scroll-wrapper > .scroll-content::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+}
+ 
+.scroll-element {
+    display: none;
+}
+.scroll-element, .scroll-element div {
+    box-sizing: content-box;
+}
+ 
+.scroll-element.scroll-x.scroll-scrollx_visible,
+.scroll-element.scroll-y.scroll-scrolly_visible {
+    display: block;
+}
+ 
+.scroll-element .scroll-bar,
+.scroll-element .scroll-arrow {
+    cursor: default;
+}
+ 
+.scroll-textarea {
+    border: 1px solid #cccccc;
+    border-top-color: #999999;
+}
+.scroll-textarea > .scroll-content {
+    overflow: hidden !important;
+}
+.scroll-textarea > .scroll-content > textarea {
+    border: none !important;
+    box-sizing: border-box;
+    height: 100% !important;
+    margin: 0;
+    max-height: none !important;
+    max-width: none !important;
+    overflow: scroll !important;
+    outline: none;
+    padding: 2px;
+    position: relative !important;
+    top: 0;
+    width: 100% !important;
+}
+.scroll-textarea > .scroll-content > textarea::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+}
+ /*************** SIMPLE INNER SCROLLBAR ***************/
+ 
+.scrollbar-inner > .scroll-element,
+.scrollbar-inner > .scroll-element div
+{
+    border: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    z-index: 10;
+}
+ 
+.scrollbar-inner > .scroll-element div {
+    display: block;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+ 
+.scrollbar-inner > .scroll-element.scroll-x {
+    bottom: 2px;
+    height: 8px;
+    left: 0;
+    width: 100%;
+}
+ 
+.scrollbar-inner > .scroll-element.scroll-y {
+    height: 100%;
+    right: 2px;
+    top: 0;
+    width: 8px;
+}
+ 
+.scrollbar-inner > .scroll-element .scroll-element_outer {
+    overflow: hidden;
+}
+ 
+.scrollbar-inner > .scroll-element .scroll-element_outer,
+.scrollbar-inner > .scroll-element .scroll-element_track,
+.scrollbar-inner > .scroll-element .scroll-bar {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+ 
+.scrollbar-inner > .scroll-element .scroll-element_track,
+.scrollbar-inner > .scroll-element .scroll-bar {
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+    filter: alpha(opacity=40);
+    opacity: 0.4;
+}
+ 
+.scrollbar-inner > .scroll-element .scroll-element_track { background-color: #e0e0e0; }
+.scrollbar-inner > .scroll-element .scroll-bar { background-color: #c2c2c2; }
+.scrollbar-inner > .scroll-element:hover .scroll-bar { background-color: #919191; }
+.scrollbar-inner > .scroll-element.scroll-draggable .scroll-bar { background-color: #919191; }
+ 
+ 
+/* update scrollbar offset if both scrolls are visible */
+ 
+.scrollbar-inner > .scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_track { left: -12px; }
+.scrollbar-inner > .scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_track { top: -12px; }
+ 
+ 
+.scrollbar-inner > .scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_size { left: -12px; }
+.scrollbar-inner > .scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_size { top: -12px; }
